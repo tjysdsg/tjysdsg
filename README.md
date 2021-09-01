@@ -6,7 +6,7 @@ My homepage: https://tjysdsg.github.io
 
 Youtube Channel: https://www.youtube.com/channel/UCdZ4a30LUVNvu9N5vN2rleQ
 
-# My Projects
+# Projects
 
 ## CAPT
 
@@ -19,8 +19,6 @@ Youtube Channel: https://www.youtube.com/channel/UCdZ4a30LUVNvu9N5vN2rleQ
 - Standard Mandarin acoustic model [training script](https://github.com/tjysdsg/std-mandarin-kaldi).
   The model is used for calculating GOP
 - Mandarin Tone Classification [experiments](https://github.com/tjysdsg/tone_classifier)
-- [End-to-End Mandarin Tone Classification with Short Term Context Information](https://arxiv.org/abs/2104.05657)
-  (under review)
 - Phone-level force alignment [scripts](https://github.com/tjysdsg/kaldi-align-to-phones) using Kaldi
 - Phone-level force alignment [scripts](https://github.com/tjysdsg/aidatatang_force_align) used for my paper
  
@@ -35,4 +33,3 @@ Youtube Channel: https://www.youtube.com/channel/UCdZ4a30LUVNvu9N5vN2rleQ
 - [Prebuilt Openpose](https://github.com/tjysdsg/openpose-built)
 - ... and many other repos [here](https://github.com/tjysdsg?tab=repositories). Unfortunately, many of my current
   projects are not open source
-
