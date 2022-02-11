@@ -1,6 +1,7 @@
+## Homepage: https://tjysdsg.github.io
+
 |<img src="https://github-readme-stats-or6z7f3mi-tjy.vercel.app/api?username=tjysdsg&count_private=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=graywhite" alt="github stats" width=500 />|<img src="https://github-readme-stats-or6z7f3mi-tjy.vercel.app/api/top-langs/?username=tjysdsg&show_icons=true&theme=graywhite&card_width=500&layout=compact&langs_count=10&hide=html,jupyter%20notebook" alt="top langs" width=500 />|
 |---|---|
-|My homepage: https://tjysdsg.github.io | Youtube Channel: https://www.youtube.com/channel/UCdZ4a30LUVNvu9N5vN2rleQ |
 
 # Publications
 
@@ -33,3 +34,5 @@
 - [Prebuilt Openpose](https://github.com/tjysdsg/openpose-built)
 - ... and many other repos [here](https://github.com/tjysdsg?tab=repositories). Unfortunately, many of my current
   projects are not open source
+
+Youtube Channel: https://www.youtube.com/channel/UCdZ4a30LUVNvu9N5vN2rleQ
