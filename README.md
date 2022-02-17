@@ -36,3 +36,5 @@
   projects are not open source
 
 Youtube Channel: https://www.youtube.com/channel/UCdZ4a30LUVNvu9N5vN2rleQ
+
+![](https://komarev.com/ghpvc/?username=tjysdsg&style=flat-square)
