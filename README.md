@@ -13,13 +13,10 @@
 ## CAPT
 
 - [Espnet fork](https://github.com/tjysdsg/espnet) for end-to-end mispronunciation detection
-- Implementation of
-  [Mispronunciation Detection and Correction via Discrete Acoustic Units](https://github.com/tjysdsg/DAU-MD)
 - [Kaldi fork](https://github.com/tjysdsg/kaldi) for CAPT using Goodness of Pronunciation (GOP)
 - Computer Aided Pronunciation Training (CAPT) mobile app (server backend is not open source) called
   [hippo](https://github.com/tjysdsg/hippo)
-- Standard Mandarin acoustic model [training script](https://github.com/tjysdsg/std-mandarin-kaldi).
-  The model is used for calculating GOP
+- Standard Mandarin acoustic model [training script](https://github.com/tjysdsg/std-mandarin-kaldi)
 - Mandarin Tone Classification [experiments](https://github.com/tjysdsg/tone_classifier)
 - Phone-level force alignment [scripts](https://github.com/tjysdsg/kaldi-align-to-phones) using Kaldi
 - Phone-level force alignment [scripts](https://github.com/tjysdsg/aidatatang_force_align) used for my paper
@@ -33,8 +30,7 @@
 - [Scripts and documentation](https://github.com/tjysdsg/birds) for Chinese endemic bird image dataset
 - [Prebuilt LLVM and Clang libraries](https://github.com/tjysdsg/llvm-build)
 - [Prebuilt Openpose](https://github.com/tjysdsg/openpose-built)
-- ... and many other repos [here](https://github.com/tjysdsg?tab=repositories). Unfortunately, many of my current
-  projects are not open source
+- ... and many other repos [here](https://github.com/tjysdsg?tab=repositories)
 
 Youtube Channel: https://www.youtube.com/channel/UCdZ4a30LUVNvu9N5vN2rleQ
 
