@@ -5,7 +5,8 @@
 
 # Publications
 
-[End-to-End Mandarin Tone Classification with Short Term Context Information](https://arxiv.org/abs/2104.05657)
+[End-to-End Mandarin Tone Classification with Short Term Context Information](https://ieeexplore.ieee.org/document/9689521) or on [arxiv](https://arxiv.org/abs/2104.05657)
+
 
 # Projects
 
