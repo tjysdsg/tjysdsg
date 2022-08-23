@@ -29,6 +29,4 @@
 - [Prebuilt Openpose](https://github.com/tjysdsg/openpose-built)
 - ... and many other repos [here](https://github.com/tjysdsg?tab=repositories)
 
-Youtube Channel: https://www.youtube.com/channel/UCdZ4a30LUVNvu9N5vN2rleQ
-
 ![](https://komarev.com/ghpvc/?username=tjysdsg&style=flat-square)
