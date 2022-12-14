@@ -44,7 +44,6 @@ https://tjysdsg.github.io
 - Misc scripts https://github.com/tjysdsg/scripts
 - Experimenting different parallel computing methods https://github.com/tjysdsg/parallel_cpp
 - Neovim configs https://github.com/tjysdsg/nvim
-- Calculate WER https://github.com/tjysdsg/wer
 - Easily bootstrapping a new Ubuntu WSL installation https://github.com/tjysdsg/wsl-bootstrap
 
 # 3D Modeling
