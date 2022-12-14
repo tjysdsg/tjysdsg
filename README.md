@@ -3,6 +3,8 @@ https://tjysdsg.github.io
 # ML/AI (mainly speech processing)
 
 - Contributing to [Espnet](https://github.com/espnet/espnet)
+    - MAGICDATA recipe: https://github.com/espnet/espnet/tree/master/egs2/magicdata/asr1
+    - Aphasia ASR: https://github.com/tjysdsg/espnet/tree/aphasiabank/egs2/aphasiabank/asr1
 - Computer Aided Pronunciation Training (CAPT) [server backend](https://github.com/tjysdsg/capt-public)
 - CAPT mobile app called [hippo](https://github.com/tjysdsg/hippo)
 - [Kaldi fork](https://github.com/tjysdsg/kaldi) for CAPT using Goodness of Pronunciation (GOP)
