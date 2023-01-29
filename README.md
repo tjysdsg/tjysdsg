@@ -26,7 +26,7 @@ Dear recruiter: please take a look at my homepage as well: https://tjysdsg.githu
 
 - [A toy OS](https://github.com/tjysdsg/tos) that supports paging, APIC, ACPI, VBE console, and keyboard input with a
   custom libc
-- [Porting]((https://github.com/tjysdsg/newlib)) newlib to TOS
+- [Porting](https://github.com/tjysdsg/newlib) newlib to TOS
 - ACPICA [ported](https://github.com/tjysdsg/acpica) to TOS
 
 # Game Dev
