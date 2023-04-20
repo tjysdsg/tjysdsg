@@ -44,3 +44,6 @@
 # 3D Modeling
 
 - [Blender projects](https://github.com/tjysdsg/blender-projects)
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1c7oqg207elsvqq3c7ifgqhay&count=10&unique=true)
