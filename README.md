@@ -1,11 +1,8 @@
 ## Jiyang (Mark) Tang
 
-![Xiaomi](https://img.shields.io/badge/-Ex_Mier-000?&logo=xiaomi)
-![Game Developer](https://img.shields.io/badge/-Game_Developer-000?&logo=steamworks)
-![Research](https://img.shields.io/badge/-ML/AI_Research-000)
-
 ![Speech Recognition](https://img.shields.io/badge/-Speech_Recognition-000)
 ![Natural Language Processing](https://img.shields.io/badge/-Natural_Language_Processing-000)
+![Research](https://img.shields.io/badge/-ML/AI_Research-000)
 ![Compiler](https://img.shields.io/badge/-Compiler-000)
 ![Game Dev](https://img.shields.io/badge/-Game_Dev-000)
 
