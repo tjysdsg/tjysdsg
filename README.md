@@ -9,7 +9,6 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![ESPnet](https://img.shields.io/badge/-ESPnet-000)
 ![Kaldi](https://img.shields.io/badge/-Kaldi-000)
