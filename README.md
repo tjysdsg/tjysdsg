@@ -32,7 +32,7 @@ https://tjysdsg.github.io
 
 I am a Software Engineer at Intel Corporation.
 
-I obtained M.S. in [Master of Science in Intelligent Information Systems](https://miis.cs.cmu.edu/) at Carnegie Mellon University Language Technologies Institute.
+I obtained [Master of Science in Intelligent Information Systems](https://miis.cs.cmu.edu/) at Carnegie Mellon University Language Technologies Institute.
 I was fortunate to be advised by [Dr. Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe).
 Under his supervision, I worked on speech processing problems and contributed to [ESPnet](https://github.com/espnet/espnet) 
 
