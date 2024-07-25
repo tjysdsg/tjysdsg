@@ -1,11 +1,5 @@
 ## Jiyang (Mark) Tang
 
-![Speech Recognition](https://img.shields.io/badge/-Speech_Recognition-000)
-![Natural Language Processing](https://img.shields.io/badge/-Natural_Language_Processing-000)
-![Research](https://img.shields.io/badge/-ML/AI_Research-000)
-![Compiler](https://img.shields.io/badge/-Compiler-000)
-![Game Dev](https://img.shields.io/badge/-Game_Dev-000)
-
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000)
